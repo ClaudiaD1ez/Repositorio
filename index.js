@@ -1,8 +1,8 @@
-function sum (x,y){
-    console.log(x + y)
+function sum (x,y,z){
+    console.log(x + y +z)
 }
 
-function subs (x,y){
+function subs (x,y,){
     console.log(x - y)
 }
 
