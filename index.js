@@ -1,7 +1,8 @@
+/*
 function sum (x,y){
     console.log(x + y)
 }
-
+*/
 function subs (x,y){
     console.log(x - y)
 }
